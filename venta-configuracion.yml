@@ -1,1 +1,2 @@
 dbVenta-cnx: server=DESKTOP-CRJD420\SQLEXPRESS; database=dbVenta; integrated security=true;TrustServerCertificate=True;
+url-base-servicio-stock: https://localhost:7065
