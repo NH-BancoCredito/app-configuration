@@ -1,2 +1,2 @@
-dbVenta-cnx: server=DESKTOP-8R1GH5R; database=db_venta; integrated security=true;TrustServerCertificate=True
+dbVenta-cnx: server=DESKTOP-T9JDKHK; database=db_venta; integrated security=true;TrustServerCertificate=True
 url-base-servicio-stock: https://localhost:7065
