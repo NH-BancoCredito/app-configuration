@@ -1,1 +1,2 @@
 dbVenta-cnx: server=EDUARDO-LT; database=db_venta; integrated security=true;TrustServerCertificate=True
+url-base-servicio-stock: http://localhost:5001/api/stock/
