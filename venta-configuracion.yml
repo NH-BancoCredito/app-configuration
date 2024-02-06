@@ -1,2 +1,4 @@
 dbVenta-cnx: server=EDUARDO-LT; database=db_venta; integrated security=true;TrustServerCertificate=True
 url-base-servicio-stock: http://localhost:5001/api/stock/
+log-mongo-server-db: mongodb://localhost/db-logs
+log-mongo-db-collection: logs
